@@ -1,0 +1,8 @@
+2019-12-18 23:56:51 INFO: PDOAdapter -> selectOne() $sql=SELECT MAX(age) FROM person $args=
+2019-12-18 23:56:51 INFO: PDOAdapter -> selectOne() $sql=SELECT lastname, firstname, id, age, mother_id FROM person WHERE (mother_id IS NULL OR trim(mother_id) = '') AND (age < 46) $args=
+2019-12-18 23:56:51 INFO: PDOAdapter -> selectOne() $sql=SELECT MAX(age) FROM person $args=
+2019-12-18 23:56:51 INFO: PDOAdapter -> selectOne() $sql=SELECT MAX(age) FROM person $args=
+2019-12-18 23:56:52 INFO: PDOAdapter -> selectOne() $sql=SELECT MAX(age) FROM person $args=
+2019-12-18 23:56:52 INFO: PDOAdapter -> selectOne() $sql=SELECT lastname, firstname, id, age, mother_id FROM person WHERE (mother_id IS NULL OR trim(mother_id) = '') AND (age < 46) $args=
+2019-12-18 23:56:52 INFO: PDOAdapter -> selectOne() $sql=SELECT MAX(age) FROM person $args=
+2019-12-18 23:56:52 INFO: PDOAdapter -> selectOne() $sql=SELECT MAX(age) FROM person $args=
